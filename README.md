@@ -1,4 +1,4 @@
 # Hello-World
-My first repository.\n
+My first repository.  
 Modifications, testing authentication.
 
