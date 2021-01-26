@@ -1,5 +1,4 @@
-# hello-world
+# Hello-World
 My first repository
-This is fun
-First change
+Modifications, testing authentication.
 
